@@ -55,7 +55,9 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 ```
 ## Images of the project
 
-    ![alt text](https://github.com/Pratap2018/testimonial-showcase/blob/main/image1 )
+    Route /Add: 
+![alt text](https://github.com/Pratap2018/testimonial-showcase/blob/main/image1 )
 
  
-    ![alt text](https://github.com/Pratap2018/testimonial-showcase/blob/main/image2 )
+   Route /: 
+![alt text](https://github.com/Pratap2018/testimonial-showcase/blob/main/image2 )
